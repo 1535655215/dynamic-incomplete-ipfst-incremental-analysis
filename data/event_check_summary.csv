@@ -1,0 +1,8 @@
+event_class,views,batches,fallback_rate,max_conflict_error,relation_errors
+known_to_missing,3,180,0,3.3306690738754696e-16,0
+missing_to_known,3,180,0,3.3306690738754696e-16,0
+value_edit,3,180,0,3.3306690738754696e-16,0
+object_add_remove,3,180,1,3.3306690738754696e-16,0
+issue_add_remove,3,180,1,3.3306690738754696e-16,0
+zero_to_nonzero,3,180,1,3.3306690738754696e-16,0
+nonzero_to_zero,3,180,1,3.3306690738754696e-16,0
